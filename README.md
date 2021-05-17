@@ -1,3 +1,4 @@
+MISHA Nayar AND MAXIMILIAN Grab
 # Samogies_LaravelEdition
 same project but using laravel
 
