@@ -3,6 +3,7 @@ same project but using laravel
 
 # Samogies
 ---------------------PRE REQUISITES ---------------------------
+unzip the project
 
 you need a Database connection, we used mySql workbench.
 
@@ -41,6 +42,7 @@ Confirm the 2 tables are made in the New or Existing database.
 Confirm menus_tbl is filled out.
 
 ------------------------------Laravel Specific-----------------------------
+run the php artisan serve --port=8080 
 Open the 5 php scripts in view and change the path on the includes. they are surronded by comments to catch your attention.
 Open the 4 php scripts in the SQL_SamPer folder and change the paths for the includes. they are surronded by comments to catch your attention.
 
